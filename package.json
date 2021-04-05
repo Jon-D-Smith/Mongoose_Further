@@ -1,0 +1,22 @@
+{
+  "name": "mongoose_further",
+  "version": "1.0.0",
+  "description": "More Mongoose practice",
+  "main": "product.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jon-D-Smith/Mongoose_Further.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jon-D-Smith/Mongoose_Further/issues"
+  },
+  "homepage": "https://github.com/Jon-D-Smith/Mongoose_Further#readme",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
+}
